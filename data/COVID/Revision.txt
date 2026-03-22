@@ -1,0 +1,26 @@
+Dataset: https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia-/gt2j-8ykr/about_data
+
+Fuente: Kaggle
+Tipo de datos: Secundarios porque los datos son recolectados y publicados por una entidad gubernamental.
+Formato: tabulares (archivos CSV)
+
+Número de registros: 6390971
+Atributos ( 23 columnas): 
+"fecha reporte web","ID de caso","Fecha de notificación","Código DIVIPOLA departamento","Nombre departamento","Código DIVIPOLA municipio"
+,"Nombre municipio","Edad","Unidad de medida de edad","Sexo","Tipo de contagio","Ubicación del caso","Estado","Código ISO del país",
+"Nombre del país","Recuperado","Fecha de inicio de síntomas","Fecha de muerte","Fecha de diagnóstico","Fecha de recuperación",
+"Tipo de recuperación","Pertenencia étnica","Nombre del grupo étnico"
+Tamaño: Dataset grande (Big Data), debido al volumen de casos 1.34 GB
+
+Nivel de documentación: se considera un alto nivel de documentación y contiene un diccionario de datos disponible que facilita 
+el entendimiento de información
+Es un dataset tabular, masivo y altamente documentado, proveniente de una fuente oficial confiable, ideal para análisis de datos, 
+visualización y modelado predictivo en el contexto de salud pública
+
+Posibles aplicacioneso o manejo de información: 
+Análisis estadístico y epidemiológico
+Estudios geográficos (distribución por regiones)
+Visualización de datos (dashboards, gráficos)
+Modelos predictivos (machine learning, series de tiempo)
+Apoyo en toma de decisiones en salud pública
+Periodismo de datos e investigación académica

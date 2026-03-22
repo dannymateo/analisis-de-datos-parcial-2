@@ -85,5 +85,5 @@ jupyter notebook Covid_19.ipynb
 
 1. Danny Mateo Hernández Sánchez
 2. Stefany Builes Lopera
-3. Lediy Dahiana Mora Trujillo
+3. Leidy Daihana Mora Trujillo
 4. Alejandra Alvarez Serna

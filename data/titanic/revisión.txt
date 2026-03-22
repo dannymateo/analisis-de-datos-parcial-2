@@ -1,0 +1,46 @@
+Dataset: Titanic-https://www.kaggle.com/competitions/titanic/data
+
+Fuente: Kaggle
+Tipo de datos: Secundarios, tabulares (archivos CSV)
+
+Completitud
+
+El dataset está compuesto por dos conjuntos principales de datos:
+
+1. train.csv: contiene información de 891 pasajeros junto con la variable objetivo (supervivencia).
+
+2. test.csv: contiene información de 418 pasajeros, sin la variable de supervivencia.
+
+Ambos datasets incluyen características de los pasajeros como nombre, edad, género, clase socioeconómica, entre otras.
+
+La información está organizada por registros individuales (pasajeros) y contiene múltiples variables relevantes para el análisis. Sin embargo, en la descripción proporcionada no se especifica explícitamente la presencia o ausencia de valores faltantes.
+
+El dataset presenta una estructura completa en términos de variables y registros, aunque es necesario validar la calidad de los datos (como valores faltantes) en fases posteriores del análisis.
+
+Relevancia
+
+El objetivo del dataset es construir un modelo de machine learning que permita predecir si un pasajero sobrevivió o no al hundimiento del Titanic.
+
+Este problema se enmarca en una tarea de clasificación, donde la variable objetivo es:
+
+0: No sobrevivió
+
+1: Sobrevivió
+
+El análisis se basa en variables como edad, género, clase socioeconómica y otras características del pasajero, con el fin de responder a la pregunta: ¿Qué tipo de personas tenían mayor probabilidad de sobrevivir?
+
+Facilidad de manejo
+
+El dataset presenta varias características que facilitan su uso:
+
+Se encuentra en formato CSV
+
+Tiene un tamaño reducido (26,6 kb y 21,2 kb)
+
+Está dividido en conjuntos de entrenamiento y prueba claramente definidos
+
+Incluye documentación de variables (diccionario de datos)
+
+Además, Kaggle proporciona recursos adicionales como notebooks, tutoriales y foros de discusión que facilitan el aprendizaje y uso del dataset.
+
+El dataset es fácil de manejar debido a su tamaño, estructura organizada y disponibilidad de documentación y recursos de apoyo.

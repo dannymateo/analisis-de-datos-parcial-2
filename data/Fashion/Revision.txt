@@ -1,0 +1,19 @@
+Dataset Fashion MNIST
+ (https://www.kaggle.com/datasets/manasmohapatra1998/minst-fashion-dataset?resource=download )
+
+Fuente: Kaggle - Manas Mohapatra
+Tipo de datos: Secundaria
+Características básicas: Tiene 70 mil imágenes, 10 mil de prueba y 60 mil de entrenamiento.
+-	Imágenes 28x28
+-	Etiqueta 10 clases de ropa (Camiseta, camisa, pantalón, suéter, vestido, zapatos, bolso, sandalia, botas, abrigo)
+-	Tamaño del dataset 148 MB 
+-	Formato CSV
+
+Nivel de documentación disponible: Tiene un nivel de documentación alto, con ejemplos en Kaggle y integración con tensorFlow y Keras.
+Posibles aplicaciones: 
+-	Clasificación de imágenes: Entrenar un modelo para que reconozca automáticamente qué prenda hay en una imagen.
+-	 Deep Learning(CNN): Para detectar bordes, formas y que reconozcan patrones visuales.
+-	Sistemas de recomendación de ropa: Identificar tipos de prendas y relacionando estilos similares
+-	Pruebas de modelos de machine learning: Sepuede usar para experimentar y aprender diferentes algoritmos KNN, redes neuronales, etc.
+-	Comparación de algoritmos: Para evaluar que modelos funcionan mejor, accuracy, tiempo de entrenamiento y complejidad.
+

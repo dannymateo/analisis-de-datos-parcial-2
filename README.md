@@ -80,6 +80,8 @@ jupyter notebook Covid_19.ipynb
 > El notebook consume datos desde la **API** de datos abiertos de Colombia (`datos.gov.co`). Se requiere **conexión a internet** al ejecutar las celdas de carga. Si la API aplica límite de filas, los resultados corresponden a la muestra descargada.
 
 ---
+## Video de exposición proyecto
+https://youtu.be/k7Y8rMDMUuc
 
 ## Integrantes
 
